@@ -1,7 +1,7 @@
-# alfabet
+# Alfabet
 Generate alfabet letters along with commands in terminal to refresh your mind.
 
-Instructions:
+# Instructions:
 
 Read out lod letters and do commands in the same time.
 Commnads:
